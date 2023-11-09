@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AGrowTech 🌿",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a web application for recognizing plant diseases using advanced image recognition algorithms. Collaborated on creating beginner-friendly articles to explain the technology behind Azure Static Web Apps and the tooling required to kickstart the project.",
+    url: "https://github.com/DemonCyborg007/AGrowTech",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Portfolio Showcase 📂",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Crafted a comprehensive web portfolio showcasing a variety of projects, each accompanied by sketch note imagery to visually represent the concepts taught. Hosted on GitHub, it serves as a testament to my experience and design abilities.",
+    url: "https://demoncyborg007.github.io/Portfolio/",
   },
   {
-    title: "My Resume Site",
+    title: "QR Bar Menu 🍹",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Freelance project involving the development of a QR scanner web application for a hotel's bar menu. Implemented user-friendly features to enhance the customer experience and streamline menu access.",
+    url: "https://demoncyborg007.github.io/Residency_Bar_Menu/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Digit Recognizer WebApp 🔢",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed and implemented a web application capable of recognizing handwritten digits. Utilized advanced algorithms to accurately identify and classify numerical inputs.",
+    url: "https://demoncyborg007.github.io/Recog_Digit/",
   },
 ];
 

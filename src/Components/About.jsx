@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a tech enthusiast pursuing B.Tech in CSE with a focus on AIML at LNCT, with a stellar academic record from St. Joseph's Coed School. I thrive on solo projects, combining my coding prowess with a black belt in karate and a rhythmic flair as a professional beatboxer.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -34,9 +34,15 @@ const skillsList = [
   "Web design",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Advanced Python",
+  "Flask",
+  "Django",
+  "MySQL",
+  "MongoDB",
+  "Web Development",
+  "Multilingual Communication",
+  "Leadership",
+  "Problem-Solving",
 ];
 
 /**
@@ -45,7 +51,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about crafting innovative solutions with technology. Fluent in multiple languages, both coding and human, I believe in the power of diversity in problem-solving. A lone wolf by nature, I bring leadership, adaptability, and a strong work ethic to every project, aiming to make a lasting impact in the tech world.";
 
 const About = () => {
   return (
